@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Test Analyse
+- 🌱 I’m currently learning I.T.
+- 👯 I’m looking to collaborate on building Automation Testing Framework
+- 🤔 I’m looking for help with coding
+- 💬 Ask me about 12 Rules of Life
+- 📫 How to reach me: Comment Section
+- 😄 Pronouns: DO NOT PLAY IDENTITY POLITICS!!
+- ⚡ Fun fact: ENFJ
+
 <!--
 **chiwi-yue/chiwi-yue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
