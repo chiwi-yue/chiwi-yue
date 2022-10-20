@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with coding
 - 💬 Ask me about 12 Rules of Life
 - 📫 How to reach me: Comment Section
-- 😄 Pronouns: DO NOT PLAY IDENTITY POLITICS!!
 - ⚡ Fun fact: ENFJ
 
 <!--
